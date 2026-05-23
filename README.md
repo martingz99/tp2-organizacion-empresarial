@@ -47,3 +47,6 @@ Ejecutar el script:
 ```bash
 python scripts/analisis_ventas.py
 ```
+
+## Observación
+Este proyecto fue desarrollado como práctica de organización y trabajo colaborativo utilizando Git y Jira.
